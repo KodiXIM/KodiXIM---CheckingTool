@@ -14,3 +14,4 @@ WinDefLogView – view Windows Defender logs
 LastActivityView – track recent system activity
 
 All tools are downloaded from their official sources and stored inside the KodiXIM folder, with archives automatically extracted for convenience.
+<img width="500" height="702" alt="image" src="https://github.com/user-attachments/assets/0d0fb409-9217-4b8f-83dc-1427db486327" />
